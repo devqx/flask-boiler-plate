@@ -1,0 +1,10 @@
+flask
+flask_restful
+flask_sqlalchemy
+marshmallow
+flask_marshmallow
+sqlalchemy
+flask_script
+marshmallow-sqlalchemy
+flask_migrate
+psycopg2==2.7.5
